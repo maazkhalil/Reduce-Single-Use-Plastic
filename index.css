@@ -1,0 +1,20 @@
+body
+{
+   background-image: url("pexels-julia-m-cameron-6995472.jpg");
+   background-color: #cccccc;
+   background-repeat: no-repeat;
+   background-size: 100%;
+  
+
+}
+#main
+{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   text-decoration: underline;
+  
+}
+p1
+{
+   margin-left: 10%;
+}
